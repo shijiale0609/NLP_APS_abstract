@@ -1,6 +1,6 @@
 # NLP word embedding search engineer for APSMarch2021_abstract 
 
-## 1. prepare for all the urls of the APSMarch2021 abstract
+## 1. collect all the urls of the APSMarch2021 abstract
 
 ## 2. auto download all the APSMarch2021 abstracts (titles, urls, authorlist, abstract content)
 
